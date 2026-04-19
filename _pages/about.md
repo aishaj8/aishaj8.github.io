@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aisha Javed: Watershed Scientist & Agricultural Sustainability Researcher"
+title: "Aisha Javed:<br>Watershed Scientist & Agricultural Sustainability Researcher"
 author_profile: true
 redirect_from: 
   - /about/
