@@ -1,3 +1,18 @@
-#site-nav ul.visible-links li#theme-toggle {
-  margin-left: auto;
+#site-nav {
+  display: flex;
+  align-items: center;
+}
+
+#theme-toggle {
+  margin-right: 0.5rem;
+  order: 2;
+}
+
+#site-nav > button {
+  order: 3;
+}
+
+#site-nav ul.visible-links {
+  order: 1;
+  flex: 1;
 }
