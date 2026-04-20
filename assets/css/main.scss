@@ -46,8 +46,8 @@
 // Overrides the light theme only — dark mode's @media (prefers-color-scheme: dark)
 // block sets its own value for --global-bg-color and will take precedence when active.
 :root {
-  --global-bg-color: #dce3cc;
-  --global-link-color: #b5651d;
-  --global-link-color-hover: #8f4e15;
-  --global-link-color-visited: #d4956b;
+  --global-bg-color: #dde8dc;
+  --global-link-color: #9c5a3c;
+  --global-link-color-hover: #7a432c;
+  --global-link-color-visited: #c28a6e;
 }
