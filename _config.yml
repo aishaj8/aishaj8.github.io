@@ -11,6 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Aisha Javed"
 title_separator          : "-"
+remote_theme             : "academicpages/academicpages.github.io"
 name                     : &name "Aisha Javed"
 description              : &description "Aisha Javed's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://aishaj8.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -313,6 +314,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-remote-theme
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -322,6 +324,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-remote-theme
 
 
 # Archives
