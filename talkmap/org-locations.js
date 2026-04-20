@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Connecting the long-term water level fluctuations in Great Lakes to large scale climate variability<br />61st Annual Conference on Great Lakes Research (IAGLR 2018), University of Toronto Scarborough; Toronto, Ontario, Canada",
+    43.6534817,
+    -79.3839347
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Using wavelet analysis to identify seasonal changes in water level fluctuations<br />62nd Annual Conference on Great Lakes Research (IAGLR 2019), The College at Brockport, SUNY; Brockport, NY, USA",
+    43.213671,
+    -77.93918
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "A modelling framework for setting criteria of Microcystin violations in the Bay of Quinte<br />61st Annual Conference on Great Lakes Research (IAGLR 2018), University of Toronto Scarborough; Toronto, Ontario, Canada",
+    43.6534817,
+    -79.3839347
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Drivers of water level fluctuations and hydro-meteorological trends in Great Lakes<br />61st Annual Conference on Great Lakes Research (IAGLR 2018), University of Toronto Scarborough; Toronto, Ontario, Canada",
+    43.6534817,
+    -79.3839347
   ]
 ];
