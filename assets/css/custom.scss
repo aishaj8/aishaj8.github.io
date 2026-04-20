@@ -1,18 +1,33 @@
-#site-nav {
+.greedy-nav {
   display: flex;
   align-items: center;
-}
 
-#theme-toggle {
-  margin-right: 0.5rem;
-  order: 2;
-}
+  .visible-links {
+    display: flex;
+    align-items: center;
+    flex: 1;
 
-#site-nav > button {
-  order: 3;
-}
+    li {
+      display: flex;
+      align-items: center;
+    }
+  }
 
-#site-nav ul.visible-links {
-  order: 1;
-  flex: 1;
+  #theme-toggle {
+    margin-right: 2.5rem; // leaves room for the hamburger button
+    flex-shrink: 0;
+    order: 2;
+
+    a {
+      width: 25px;
+      display: flex;
+      justify-content: center;
+      cursor: pointer;
+    }
+  }
+
+  button {
+    position: absolute;
+    right: 0;
+  }
 }
