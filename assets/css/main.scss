@@ -51,3 +51,14 @@
   --global-link-color-hover: #7a432c;
   --global-link-color-visited: #c28a6e;
 }
+
+
+// Thicker line under navigation
+.masthead {
+  border-bottom-width: 3px;
+}
+
+// Thicker profile picture outline
+.author__avatar img {
+  border-width: 3px;
+}
