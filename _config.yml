@@ -29,7 +29,8 @@ author:
   bio              : "Post Doctoral Fellow in agricultural water quality and climate science, working to understand the environmental trade-offs of food production in rapidly urbanizing landscapes."
   location         : "Canada"
   employer         : "University of Toronto"
-  uri              : "https://ca.linkedin.com/in/aishajaved1"
+  uri              : #
+  linkedin         : "aishajaved1"
   email            : "aisha.javed@mail.utoronto.ca" 
 
   # Academic websites
@@ -66,7 +67,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "aishajaved1"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
