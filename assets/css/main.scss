@@ -46,19 +46,19 @@
 // Overrides the light theme only — dark mode's @media (prefers-color-scheme: dark)
 // block sets its own value for --global-bg-color and will take precedence when active.
 :root {
-  --global-bg-color: #dde8dc;
-  --global-link-color: #9c5a3c;
-  --global-link-color-hover: #7a432c;
-  --global-link-color-visited: #c28a6e;
+  --global-bg-color: #f0f2ec;
+  --global-link-color: #3c6e4a;
+  --global-link-color-hover: #1e2e24;
+  --global-link-color-visited: #e07850;
 }
 
 
 // Thicker line under navigation
 .masthead {
-  border-bottom-width: 3px;
+  border-bottom-width: 5px;
 }
 
 // Thicker profile picture outline
 .author__avatar img {
-  border-width: 3px;
+  border-width: 5px;
 }
